@@ -3,4 +3,5 @@ Analysis of elephant movement patterns in Kaudulla, Sri Lanka, using GPS trackin
 
 shiny app links
   movements: https://ihansamal-kaudullaelephants.share.connect.posit.cloud/
+  
   anomalies: https://nathashaninthushi-elephantanomalies.share.connect.posit.cloud/
